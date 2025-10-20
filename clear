@@ -1,0 +1,29 @@
+[33mcommit 341bbeb6f1b0be285e112dd10901af57d3eb52a7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Oriol <argemi.oriol@proton.me>
+Date:   Mon Oct 20 16:50:01 2025 +0200
+
+    Actualitzat sub modul repository-extern
+
+[33mcommit 1040d7ca3c718420901e698d88025343ce73fd0e[m
+Author: Oriol <argemi.oriol@proton.me>
+Date:   Mon Oct 20 16:40:33 2025 +0200
+
+    Afegit el submodul: repositori extern
+
+[33mcommit ed329dacee65b4d601301628f0a763eda83d9dd7[m[33m ([m[1;31morigin/test[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Oriol <argemi.oriol@proton.me>
+Date:   Wed Oct 15 17:38:21 2025 +0200
+
+    Create conocenos.html
+
+[33mcommit dbbc07a7f9708c24267eeb1eae05dd5b724d8261[m
+Author: Oriol <argemi.oriol@proton.me>
+Date:   Wed Oct 15 17:13:24 2025 +0200
+
+    Create HTML
+
+[33mcommit 891c3e8c505c4e573f9e49a0d8d62b06640fb0f3[m
+Author: Oriol <argemi.oriol@proton.me>
+Date:   Wed Oct 15 17:04:08 2025 +0200
+
+    Initial commit
